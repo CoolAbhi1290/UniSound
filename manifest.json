@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A resource pack demo by CoolAbhi1290",
+        "name": "UniSound",
+        "uuid": "d51998e5-0508-4ad9-9899-c4eb2cb43c49",
+        "version": [1, 1, 0],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "A resource pack demo by CoolAbhi1290",
+            "type": "resources",
+            "uuid": "6bfc63ac-c198-478c-a76e-6d7745a80239",
+            "version": [1, 1, 0]
+        }
+    ]
+}
